@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://twitter.com/officalsifat" target="blank"><img src="https://img.shields.io/twitter/follow/officalsifat?logo=twitter&style=for-the-badge" alt="officalsifat" /></a> </p>
 
 - 🔭 I’m **Fullstack Web Developer,Ethical Hacker and Problem Solver**
-
-- 🌱 I’m currently learning **Blockchain developer...**
-
+- 
 - 👯 I’m currently learning **Blockchain developer...**
 
 - 🤝 I’m looking for collaborate **some big projects**

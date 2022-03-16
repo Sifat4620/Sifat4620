@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat4620&label=Profile%20views&color=0e75b6&style=flat" alt="sifat4620" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifat4620" alt="sifat4620" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/officalsifat" target="blank"><img src="https://img.shields.io/twitter/follow/officalsifat?logo=twitter&style=for-the-badge" alt="officalsifat" /></a> </p>
 
 - 🔭 I’m **Fullstack Web Developer,Ethical Hacker and Problem Solver**

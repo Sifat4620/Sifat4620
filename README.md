@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for collaborate **some big projects**
 
-- 💬 Ask me about **Hello. I'm Sifat a tech savvy person. Personally, I'm optimistic and always in a hurry.**
+- 💬 Ask me about me **Hello. I'm Sifat a tech savvy person. Personally, I'm optimistic and always in a hurry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

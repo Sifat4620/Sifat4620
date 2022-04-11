@@ -7,7 +7,7 @@
 
 - 🔭 I’m **Full stack Web Developer,Ethical Hacker and Problem Solver**
 
-- 👯 I’m currently learning **Blockchain developer...**
+- 👯 I’m currently learning **Advance Backend Web developer...**
 
 - 🤝 I’m looking for collaborate **some big projects**
 

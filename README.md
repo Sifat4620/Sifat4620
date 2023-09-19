@@ -7,7 +7,7 @@
 
 - 🔭 I’m **ML engineer and Full stack Web Developer**
 
-- 👯 I’m currently working **Deep learning ...**
+- 👯 I’m currently working **Deep learning & NLP ...**
 
 - 🤝 I’m looking for collaborate **some big projects**
 

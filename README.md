@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sifat</h1>
-<h3 align="center">DevOps Engineer @ Square Cloud | Ex Soft Engineer | Ex Research Assistant | Backend Dev | Laravel | Go | Python | Docker | Cloud Engineer | DevOps & MLOps | Operating System | Gen Ai & ML | Project Management</h3>
+<h3 align="center"> Cloud Engineer @ Square Cloud | Ex Soft Engineer | Ex Research Assistant | Backend Dev | Laravel | Go | Python | Docker | Cloud Engineer | DevOps & MLOps | Operating System | Gen Ai & ML | Project Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat4620&label=Profile%20views&color=0e75b6&style=flat" alt="sifat4620" /> </p>
 
 <p align="left"> <a href="https://twitter.com/officalsifat" target="blank"><img src="https://img.shields.io/twitter/follow/officalsifat?logo=twitter&style=for-the-badge" alt="officalsifat" /></a> </p>
 
-- 🔭 I’m **ML engineer and DevOps**
+- 🔭 I’m **System engineer and DevOps**
 
 - 👯 I’m currently working **Deep learning & NLP ...**
 

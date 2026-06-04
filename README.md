@@ -7,7 +7,7 @@
 
 - 🔭 I’m **System engineer and DevOps**
 
-- 👯 I’m currently working **Deep learning & NLP ...**
+- 👯 I’m currently working **DevOps Tools ...**
 
 - 🤝 I’m looking for collaborate **some big projects**
 
